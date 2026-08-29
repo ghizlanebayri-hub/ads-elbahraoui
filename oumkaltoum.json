@@ -1,10 +1,12 @@
 {
-  "ad_status": "off",
+  "ad_status": "on",
   "ad_type": "admob",
   "interstitial_ad_interval": 3,
+  "update_status": "on",
+  "update_package": "com.android.chrome",
   "admob_banner_unit_id": "ca-app-pub-3940256099942544/6300978111",
   "admob_interstitial_unit_id": "ca-app-pub-3940256099942544/1033173712",
   "admob_app_open_ad_unit_id": "ca-app-pub-3940256099942544/9257395923",
   "admob_rewarded_ad_id": "ca-app-pub-3940256099942544/5224354917",
-  "onesignal_app_id": "ضعه_هنا_معرف_ونسينال"
+  "onesignal_app_id": "YOUR_ONESIGNAL_ID"
 }
