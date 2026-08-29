@@ -1,5 +1,5 @@
 {
-  "ad_status": "on",
+  "ad_status": "off",
   "ad_type": "admob",
   "interstitial_ad_interval": 3,
   "admob_banner_unit_id": "ca-app-pub-3940256099942544/6300978111",
