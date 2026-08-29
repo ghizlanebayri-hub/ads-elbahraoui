@@ -2,7 +2,7 @@
   "ad_status": "on",
   "ad_type": "admob",
   "interstitial_ad_interval": 3,
-  "update_status": "on",
+  "update_status": "off",
   "update_package": "music.saidw",
   "admob_banner_unit_id": "ca-app-pub-3940256099942544/6300978111",
   "admob_interstitial_unit_id": "ca-app-pub-3940256099942544/1033173712",
