@@ -1,5 +1,5 @@
 {
-  "ad_status": "on",
+  "ad_status": "off",
   "ad_type": "admob",
   "interstitial_ad_interval": 3,
   "update_status": "off",
